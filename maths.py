@@ -1,3 +1,11 @@
+# Maths: Tens and Units Project
+#
+# This Code was made by Vivaan Modi
+# NOTE: It will generate the sequnce forever until you kill the program!
+print('Maths: Tens and Units Project')
+print('')
+print('This Code was made by Vivaan Modi')
+print('NOTE: It will generate the sequnce forever until you kill the program!')
 possible_num=['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19']
 start_repeat=0
 def check_repeat(start_repeat,num,possible_num):
